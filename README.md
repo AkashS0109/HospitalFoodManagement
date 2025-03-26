@@ -39,7 +39,7 @@ MediBite is a **MERN-based** hospital food management system designed to streaml
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/MediBite.git
+   git clone https://github.com/AkashS0109/HospitalFoodManagement.git
    ```
 2. Install dependencies:
    ```sh
